@@ -1,7 +1,9 @@
 ADBActors
 ===========================
 
-Simple concept of Actor Model in Objective-C based on the idea of Valletta Ventures Actors library.
+Post: http://albertodebortoli.github.io/blog/2014/05/20/asynchronous-message-passing-with-actors/
+
+Simple concept of Actor Model in Objective-C based on the idea of Valletta Ventures [Actors library](http://vallettaventures.com/2012/03/04/asynchronous-message-passing-in-Objective-C/).
 
 Usage:
 
