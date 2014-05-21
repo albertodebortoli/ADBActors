@@ -27,7 +27,7 @@
 
 - (id)copyWithZone:(NSZone *)zone
 {
-    return [[[self class] allocWithZone:zone] initWithSelector:self.selector];
+    return self;
 }
 
 @end
